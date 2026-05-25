@@ -2,4 +2,5 @@ Mes notes d'apprentissage :
 - Étape 1 : Créer un repository ✅
 - Étape 2 : Modifier README ✅
 - Étape 3 : Premier commit ✅
-- Étape 4 : Créer un nouveau fichier ⬅️ je suis là !
+- Étape 4 : Créer un nouveau fichier ⬅️ je suis là !- 
+- Étape 5 : Je travaille maintenant depuis mon ordinateur ! 🎉
